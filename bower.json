@@ -1,5 +1,5 @@
 {
-  "name": "nanoscroller",
+  "name": "nis.nanoscroller",
   "description": "A jQuery plugin that offers a simplistic way of implementing Lion OS scrollbars.",
   "homepage": "http://jamesflorentino.github.com/nanoScrollerJS/",
   "main": [
