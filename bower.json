@@ -7,6 +7,7 @@
     "./bin/javascripts/jquery.nanoscroller.js"
   ],
   "keywords": [
+    "fork", "NIS"
   ],
   "licenses": [
     {
